@@ -6,5 +6,7 @@ public class Main {
 	// write your code here
         System.out.println("Hello my name is Luis");
         System.out.println("Hello Luis, my name is Alejandro");
+        System.out.println("Change made in IntelliJ");
+
     }
 }
